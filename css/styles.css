@@ -1,0 +1,31 @@
+.a{
+  background-color: #caf7e3;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  border-color: black;
+  padding: 20px;
+  mar
+}
+body{
+  margin: 0;
+  }
+h1{
+  margin-top: 0;
+}
+.b{
+  margin-left: 260px;
+  height: 200px;
+  width: 200px;
+  border:solid 20px;
+  border-color: black;
+  background-color: gold;
+
+}
+.c{
+  height: 200px;
+  width: 200px;
+  margin-left:500px;
+  border: solid 10px;
+  background-color: cyan;
+}
